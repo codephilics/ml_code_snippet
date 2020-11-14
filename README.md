@@ -1,14 +1,16 @@
-# Code snippet for image operation in a directory
+# Code snippet for Image Operation
 
-## Run a shell script!
-  - first give permission to the file
-  - chmod +x filename.sh
+## Run shell script!
+
+Set permission for file.
+
+ ```$ chmod +x filename.sh```
   
-### Run the file
+### Run the script
 
    ```$ ./filename.sh```
 
-## Dependancy for image_op.py
+## Dependancy
   - openCV
   - mtcnn
   - matplotlib
