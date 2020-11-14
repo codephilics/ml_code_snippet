@@ -6,7 +6,7 @@
   
 ### Run the file
 
-   ```./filename.sh```
+   ```$ ./filename.sh```
 
 ## Dependancy for image_op.py
   - openCV
